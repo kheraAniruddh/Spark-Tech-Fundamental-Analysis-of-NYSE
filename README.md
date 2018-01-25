@@ -1,0 +1,1 @@
+# Spark-Tech-Fundamental-Analysis-of-NYSE
