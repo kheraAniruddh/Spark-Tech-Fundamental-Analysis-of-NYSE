@@ -2,8 +2,7 @@
 Technical & Fundamental analysis of S&P 500 companies on NYSE
 
 	The input files can be downloaded from: https://www.kaggle.com/dgawlik/nyse/data
-1)	Placed the files as below on Dumbo:
-Used maven to create the jar file
+1) Used maven to create the jar file
 
 
  
