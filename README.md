@@ -66,7 +66,7 @@ Insight 1:This program will be used to check if various companies belonging to s
 Code: The class Insight1_Top20PerfCompanies() contains the script.
 Tables Used: Securities Table & Price Table
 
-[Alt text!](/snaps/Screen Shot 2018-03-15 at 8.50.20 PM.png)
+![Alt text](/snaps/Screen Shot 2018-03-15 at 8.50.20 PM.png)
  
 					Fig. 1 (Insight 1)
 
