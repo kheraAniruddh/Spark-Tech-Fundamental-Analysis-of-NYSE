@@ -66,7 +66,7 @@ Insight 1:This program will be used to check if various companies belonging to s
 Code: The class Insight1_Top20PerfCompanies() contains the script.
 Tables Used: Securities Table & Price Table
 
-![Alt text](/snaps/inisght1.png)
+![Alt text](/snaps/inisight1.png)
  
 					Fig. 1 (Insight 1)
 
@@ -82,8 +82,8 @@ This gave us 2 insights:
 
 
 
- 
-Fig: 2 (Insight 2)
+ ![Alt text](/snaps/inisight2.png)
+					 Fig: 2 (Insight 2)
 
 
 Insight 3:
@@ -91,7 +91,7 @@ We use Return on Equity and ROI as a predictor of the stock performance. We choo
 Code: The class Insight3_PortfolioReturns_ROE contains the script.
 Tables Used: Fundamentals Table & Price Table
 
- 
+ ![Alt text](/snaps/inisight3.png)
 					Fig:3 (Insight 3)
 
 Insight 4:
@@ -100,7 +100,8 @@ We were able to forecast next/last15 days stock closing value of S&P companies, 
 Table Used: Price Data
 Code: MyArimaModel  This project has been built separately.
  
-
+ ![Alt text](/snaps/inisight4.png)
+ 				        Fig:4 (Insight 4)
 To run the code, install sbt on local/cloudera with scala 2.11.8. Run Main.scala under BDAD_Forecasting. Or alternatively run  MyArima.scala file on REPL dumbo with all the dependencies under folder dependencies
 Output: 
  
