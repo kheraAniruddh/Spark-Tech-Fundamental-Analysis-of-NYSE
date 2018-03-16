@@ -65,6 +65,8 @@ Output ROE:
 Insight 1:This program will be used to check if various companies belonging to same sector show any particular trend in their ROI as years progress. Top companies with rank <=20 are chosen. The graph below (Fig.1) showsthe number of Technological companies in the top 20 performers on S&P500 index (based on calculated value Return of Investment) is increasing almost monotonically  across years.
 Code: The class Insight1_Top20PerfCompanies() contains the script.
 Tables Used: Securities Table & Price Table
+
+[Alt text!](/snaps/Screen Shot 2018-03-15 at 8.50.20 PM.png)
  
 					Fig. 1 (Insight 1)
 
